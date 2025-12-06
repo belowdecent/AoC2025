@@ -1,2 +1,2 @@
 # those elves are going to get it....
-to make the code run create an input.txt file in a corresponding puzzle of a folder
+to make the code run create an input.txt file in a corresponding puzzle folder
